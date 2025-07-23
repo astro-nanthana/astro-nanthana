@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+astro-nanthana;Future+Aerospace+Engineer;MIT+%E2%9C%94+TU+Delft+%E2%9C%94+NTU+%E2%9C%94+McGill+%E2%9C%94&center=true&size=30">
+</h1>
 
-<!--
-**astro-nanthana/astro-nanthana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Dreamer | Builder | Learner <br>
+  👩‍🚀 On a mission to NASA · Code. Launch. Repeat.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 About Me
+- 🛰️ Aspiring Aerospace Engineer  
+- 🎓 Currently pursuing: B.Tech in **Artificial Intelligence & Data Science**  
+- 💭 Dream Schools: MIT, TU Delft, NTU, McGill  
+- 🤖 Exploring Robotics, Embedded Systems & Aerospace Applications  
+- ✨ Motto: *"There is no other way."*
+
+---
+
+## 📚 What I'm Learning (2025)
+- `Python`, `Arduino`, `Git`, `Markdown`  
+- Algorithms & Data Structures  
+- MIT OCW · Robotics Projects · SAT Prep
+
+---
+
+## 💫 Connect
+- 🌍 Based in India  
+- 📧 nanthananachiyar1812@gmail.com 
+- 🛸 Portfolio coming soon...
