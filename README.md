@@ -4,7 +4,7 @@
 
 <p align="center">
   🚀 Dreamer | Builder | Learner <br>
-  👩‍🚀 On a mission to NASA · Code. Launch. Repeat.
+  👩‍🚀 On a mission to GOOGLE· Code. Launch. Repeat.
 </p>
 
 ---
